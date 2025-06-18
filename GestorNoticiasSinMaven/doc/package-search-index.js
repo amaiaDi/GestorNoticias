@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"gestor_noticias"},{"l":"gestor_noticias.modelo"},{"l":"gestor_noticias.servicio"},{"l":"gestor_noticias.util"}];updateSearchResults();
